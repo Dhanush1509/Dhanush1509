@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush1509&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush1509" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanush1509" alt="dhanush1509" /></a> </p>
-
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **s.munidhanush15@gmail.com**
@@ -21,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush1509&show_icons=true&locale=en&layout=compact" alt="dhanush1509" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanush1509&show_icons=true&locale=en" alt="dhanush1509" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush1509&" alt="dhanush1509" /></p>
